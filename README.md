@@ -1,80 +1,71 @@
-Poutinecoin Core
+<p align="center">
+  <img src="https://github.com/poutinecoin/poutinecoin-core/assets/logo.png" alt="Poutinecoin Logo" width="200"/>
+</p>
 
-    🥔 A community-driven cryptocurrency project inspired by the magic of poutine!
+# Poutinecoin-core 🌌🍟🚀
 
-🌌 About Poutinecoin
+> **English** | [Français](#français)
 
-Poutinecoin ($POUT) is a decentralized, community-first cryptocurrency that celebrates the savory joy of poutine. Born from a passion for food and tech, Poutinecoin aims to empower local businesses and creators, starting with the delicious heart of Canada: poutine!
-Key Features
+---
 
-    Custom Blockchain: Built from scratch for scalability, security, and rapid transaction speeds.
-    Community Voting & Governance: Holders of $POUT can vote on key proposals to shape the future of the project.
-    Sustainable Rewards: Fair inflation and rewards designed to promote long-term stability.
+#### English
 
-🧩 Core Components
+Welcome to **Poutinecoin-core** – the heart of the Poutinecoin blockchain! This project powers a secure, decentralized, and community-driven cryptocurrency inspired by Canada’s favorite dish.
 
-    Genesis Node: The cornerstone of the Poutinecoin blockchain, bootstrapping the network.
-    RPC & WebSocket Integration: Enables easy integration with wallets, explorers, and other dApps.
-    Governance: Includes decentralized proposal and voting mechanisms.
-    Developer SDK: Tools and documentation to integrate Poutinecoin with other applications.
+### Features:
+- **🍁 Canadian-inspired crypto**: Embrace the flavor of the North.
+- **💻 Built on Rust**: Fast, secure, and fearless.
+- **🔥 Community Governance**: Users can propose and vote on blockchain improvements.
+- **🌐 WebSocket & JSON-RPC support**: Communicate effortlessly with nodes.
+- **📈 Inflation-Controlled Supply**: Balances growth with stability.
 
-🚀 Getting Started
-Prerequisites
+### Getting Started
 
-    Rust and Cargo (latest version recommended)
-    A machine with Git installed
-    Optional: Docker for containerized setup
+1. **Clone the repository:**
+       git clone https://github.com/poutinecoin/poutinecoin-core.git
+2. **Setup and compile:**
+        cd poutinecoin-core;
+        cargo build --release;
+3. **Run tests:**
+        cargo test
 
-Installation
-
-bash
-
-# Clone the repository
-git clone https://github.com/poutinecoin/poutinecoin-core.git
-
-# Navigate to the project directory
-cd poutinecoin-core
-
-# Build the project
-cargo build --release
-
-# Run the genesis node
-cargo run --release
-
-Running Tests
-
-bash
-
-# Run all tests
-cargo test
-
-⚙️ Configuration
-
-Configuration files and runtime settings can be found in the config directory. Customize node parameters, block size, and other blockchain settings to fit your specific needs.
-📡 API Reference
-
-    JSON-RPC: Interact with the Poutinecoin network programmatically via JSON-RPC.
-    WebSocket: Real-time data streams for blockchain events and transaction confirmations.
-
-    Detailed documentation on each endpoint can be found in the API Documentation.
-
-👥 Contributing
-
-We welcome contributions from developers, poutine enthusiasts, and crypto fans alike! To contribute:
-
-    Fork the repository.
-    Create a new branch with a descriptive name.
-    Commit your changes and submit a pull request.
+For more details on usage and contributing, check out the Wiki.
 
 
-📜 License
 
-This project is licensed under the Apache2 License. See the LICENSE file for more details.
-📈 Project Status
+<p align="center">
+  <img src="https://github.com/poutinecoin/poutinecoin-core/assets/logo.png" alt="Poutinecoin Logo" width="200"/>
+</p>
 
-    Note: Poutinecoin is currently in Beta. Use it for development and testing purposes only.
+# Poutinecoin-core 🌌🍟🚀
 
-May your transactions be as smooth as melted cheese curds and your block times as short as a poutine craving! 🥔🔥
-Made with ❤️ and 🍟 by the Poutinecoin Community
+> **English** | [Français](#français)
 
+---
 
+<a name="français"></a>
+
+#### Québécois 🇶🇧
+
+Bienvenue dans Poutinecoin-core ! Ce projet est le coeur de la blockchain Poutinecoin, une cryptomonnaie sécurisée et décentralisée inspirée par la poutine, la fierté du Québec.
+
+#### Fonctionnalités :
+- **🇶🇧 Inspiration québécoise:** Goûtez au terroir de la belle province.
+- **💻 Construit avec Rust:** Rapide, sécuritaire et sans compromis.
+- **🔥 Gouvernance communautaire:** Proposez et votez pour améliorer la blockchain.
+- **🌐 Support WebSocket & JSON-RPC:** Communication facile avec les nœuds.
+- **📈 Approvisionnement contrôlé:** Pour un équilibre entre croissance et stabilité.
+
+#### Démarrage
+
+1. **Cloner le dépôt:**
+        git clone https://github.com/poutinecoin/poutinecoin-core.git
+
+2. **Configurer et compiler:**
+        cd poutinecoin-core;
+        cargo build --release;
+
+3. **Exécuter les tests:**
+        cargo test
+
+Pour plus de détails sur l'utilisation et la contribution, consultez le Wiki.
