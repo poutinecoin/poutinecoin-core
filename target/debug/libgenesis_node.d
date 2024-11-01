@@ -1,0 +1,1 @@
+/home/luc/POUTINECOIN-node/target/debug/libgenesis_node.rlib: /home/luc/POUTINECOIN-node/genesis-node/src/genesis.rs /home/luc/POUTINECOIN-node/genesis-node/src/lib.rs /home/luc/POUTINECOIN-node/genesis-node/src/rpc.rs /home/luc/POUTINECOIN-node/genesis-node/src/utils.rs /home/luc/POUTINECOIN-node/genesis-node/src/websocket.rs
