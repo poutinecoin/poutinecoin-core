@@ -2,7 +2,7 @@
   <img src="https://github.com/poutinecoin/poutinecoin-core/assets/logo.png" alt="Poutinecoin Logo" width="200"/>
 </p>
 
-# Poutinecoin-core 🌌🍟🚀
+# Poutinecoin-core
 
 > **English** | [Français](#français)
 
@@ -37,7 +37,7 @@ For more details on usage and contributing, check out the Wiki.
   <img src="https://github.com/poutinecoin/poutinecoin-core/assets/logo.png" alt="Poutinecoin Logo" width="200"/>
 </p>
 
-# Poutinecoin-core 🌌🍟🚀
+# Poutinecoin-core
 
 > **English** | [Français](#français)
 
