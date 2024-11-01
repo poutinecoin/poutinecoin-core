@@ -66,16 +66,10 @@ We welcome contributions from developers, poutine enthusiasts, and crypto fans a
     Create a new branch with a descriptive name.
     Commit your changes and submit a pull request.
 
-For more details, check out our Contribution Guide.
-🌐 Community
-
-    Twitter: @Poutinecoin
-    Discord: Join Our Community
-    Reddit: r/Poutinecoin
 
 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the Apache2 License. See the LICENSE file for more details.
 📈 Project Status
 
     Note: Poutinecoin is currently in Beta. Use it for development and testing purposes only.
@@ -83,4 +77,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 May your transactions be as smooth as melted cheese curds and your block times as short as a poutine craving! 🥔🔥
 Made with ❤️ and 🍟 by the Poutinecoin Community
 
-Replace the placeholder links (e.g., https://your-logo-link.com/logo.png) with actual links to resources on your GitHub or elsewhere. And, of course, upload your logo to the repository so it can display at the top of your README!
+
